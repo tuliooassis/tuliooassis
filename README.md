@@ -5,7 +5,7 @@
 
 ## Hello there! ✌🏻
 
-My name is Túlio Assis and I am Software Developer and Computer Engineering student.
+My name is Túlio. I am a Computer Engineer and Software Developer.
 
 - 🔭 I’m currently working with React and Node.js
 - 🌱 I’m currently learning Flutter and React Native
