@@ -5,8 +5,8 @@
 
 ## Hello there! ✌🏻
 
-My name is Túlio. I am a Computer Engineer and Software Developer.
+My name is Túlio. I'm a Computer Engineer and I've been working as a Software Engineer for almost 5 years.
 
-- 🔭 I’m currently working with React and Node.js
-- 🌱 I’m currently learning Flutter and React Native
+- 📚 I’m a Master's student in Computer Science at [DCC/UFMG](https://ppgcc.dcc.ufmg.br/)
+- 🔭 I'm currently working with React and Node.js at [Thoughtworks](https://www.thoughtworks.com/)
 - 😄 Pronouns: he/him
