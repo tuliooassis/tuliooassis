@@ -8,5 +8,5 @@
 My name is Túlio. I'm a Computer Engineer and I've been working with web development since 2017.
 
 - 📚 I’m a Master's student in Computer Science at [DCC/UFMG](https://ppgcc.dcc.ufmg.br/)
-- 🔭 I'm currently working with React and Node.js at [Thoughtworks](https://www.thoughtworks.com/)
+- 🔭 I'm currently working with React and Node.js at [BEON Tech Studio](https://beon.studio/)
 - 😄 Pronouns: he/him
